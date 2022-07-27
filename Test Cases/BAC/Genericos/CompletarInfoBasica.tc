@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompletarInfoBasica</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9376f169-edf1-45f7-b3c9-87ae90bfb78d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a85c38df-c6ec-41f0-be69-9ba0e1f1b2f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'QA'</defaultValue>
+      <description></description>
+      <id>a85c38df-c6ec-41f0-be69-9ba0e1f1b2f8</id>
+      <masked>false</masked>
+      <name>unidadSolicitante</name>
+   </variable>
+</TestCaseEntity>

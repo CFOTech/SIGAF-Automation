@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BuscarSGConAnalista</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ac51641-5ec7-445e-95c9-25d3e30ee7c2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73dc6f51-eb2b-4ce4-b444-2d3c07f09465</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73dc6f51-eb2b-4ce4-b444-2d3c07f09465</id>
+      <masked>false</masked>
+      <name>nroSG</name>
+   </variable>
+</TestCaseEntity>
