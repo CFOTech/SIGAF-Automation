@@ -39,4 +39,14 @@
       <initValue>'sigaf2022'</initValue>
       <name>passSIGAF</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>fechaActual</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>anioActual</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
