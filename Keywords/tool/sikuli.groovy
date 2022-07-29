@@ -6,7 +6,7 @@ import org.sikuli.script.Screen
 import org.sikuli.script.*
 import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.util.KeywordUtil
-
+import internal.GlobalVariable as GlobalVariable
 
 public class sikuli {
 	static String path = System.getProperty("user.dir") + "\\Image Repository\\"
@@ -66,6 +66,6 @@ public class sikuli {
 	def clickLocation(int x, int y) {
 		def location = new Location(x,y)
 		screen.click(location)
-	}	
-	
+	}
+
 }
